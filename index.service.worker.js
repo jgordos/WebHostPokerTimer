@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1745805032|1784296005';
+const CACHE_VERSION = '1745875709|1602772654';
 /** @type {string} */
 const CACHE_PREFIX = 'Texas Hold'em Po-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
